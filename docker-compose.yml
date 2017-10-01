@@ -78,7 +78,7 @@ services:
     - SMTP_PORT=25
 #      - SMTP_USER=mailer@example.com
 #      - SMTP_PASS=password
-     - SMTP_STARTTLS=false
+    - SMTP_STARTTLS=false
     - SMTP_AUTHENTICATION=login
 
 
